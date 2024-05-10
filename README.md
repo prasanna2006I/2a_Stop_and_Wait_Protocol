@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+# NAME:PRASANNA I
+# REG NO:212223220079
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
