@@ -46,10 +46,13 @@ while True:
 ```
 ## OUTPUT
 ## client
-![Screenshot 2024-04-29 143707](https://github.com/prasanna2006I/2a_Stop_and_Wait_Protocol/assets/150161282/ca1a6e43-453d-4af6-af1b-cda7961648f9)
+![image](https://github.com/prasanna2006I/2a_Stop_and_Wait_Protocol/assets/150161282/314052e1-5cf0-4991-884d-9791aa848811)
+
 
 ## server
-![Screenshot 2024-04-29 143714](https://github.com/prasanna2006I/2a_Stop_and_Wait_Protocol/assets/150161282/d0be11a1-5343-465c-b384-734438f34a5f)
+
+
+![image](https://github.com/prasanna2006I/2a_Stop_and_Wait_Protocol/assets/150161282/830232b6-6864-4253-998a-0f45ae8dd2d6)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
